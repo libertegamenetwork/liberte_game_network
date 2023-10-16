@@ -1,14 +1,14 @@
 # libertegamenetworkv1
 DePIN compute framework for on-chain games
 
-## /dashboard 
+### /dashboard 
 contains dashboard that interacts with backend + node network
 
-## /program 
+### /program 
 contains on-chain programs for the network
 
-## /node 
+### /node 
 contains node related code
 
-## /server 
+### /server 
 contains general backend code
