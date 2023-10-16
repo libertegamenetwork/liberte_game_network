@@ -8,16 +8,16 @@ This is a compiled repository of the whole Liberté game network.
 
 
 ______________
-### /liberte-dashboard 
-contains dashboard that interacts with backend + node network
+### /dashboard 
+Liberté client dashboard for working with Solana, Shadow Drive, backend, and node network
 
 ______________
 ### /liberte-program 
-contains on-chain programs for the network
+Liberté on-chain program
 
 ______________
 ### /liberte-node 
-contains node related code
+Liberté node code
 
 ______________
 ### OG Repos:
