@@ -11,6 +11,8 @@ ______________
 ### /dashboard 
 Liberté client dashboard for working with Solana, Shadow Drive, backend, and node network
 
+Check it out: https://liberte-dashboard.vercel.app/
+
 ______________
 ### /liberte-program 
 Liberté on-chain program
