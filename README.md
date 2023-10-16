@@ -20,14 +20,14 @@ ______________
 Liberté node code
 
 ______________
-### OG Repos:
+### OG Repos
 https://github.com/r3x-tech/liberte-dashboard
 https://github.com/Spaceman-Collective/liberte-node
 https://github.com/Spaceman-Collective/liberte-program
 
 ______________
 
-### Contributors:
+### Contributors
 
 @spacemandev
 https://github.com/spacemandev-git
