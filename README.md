@@ -1,9 +1,9 @@
 # Liberté Game Network
-DePIN compute framework for on-chain games
+DePIN compute framework for on-chain games. Compute w/ Liberté, build w/ existing tools, scale to millions. 
 
-Compute w/ Liberté, build w/ existing tools, scale to millions
+This is a compiled repository of the whole Liberté game network.
 
-### Learn More
+### Learn more about Liberté
 [Liberté Game Network](https://spacemandev.notion.site/Libert-fb51095da4d147e0ab20d6b35cd9e63e?pvs=4)
 
 
@@ -26,6 +26,12 @@ contains general backend code
 ______________
 ### /liberte-pong
 contains general pong game code
+
+______________
+### OG Repos:
+https://github.com/r3x-tech/liberte-dashboard
+https://github.com/Spaceman-Collective/liberte-node
+https://github.com/Spaceman-Collective/liberte-program
 
 ______________
 
