@@ -5,7 +5,7 @@ Compute w/ Liberté, build w/ existing tools, scale to millions
 
 ### Learn More
 
-[### Liberté Game Network](https://spacemandev.notion.site/Libert-fb51095da4d147e0ab20d6b35cd9e63e?pvs=4)
+[Liberté Game Network](https://spacemandev.notion.site/Libert-fb51095da4d147e0ab20d6b35cd9e63e?pvs=4)
 
 ### /dashboard 
 contains dashboard that interacts with backend + node network
