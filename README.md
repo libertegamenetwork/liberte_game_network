@@ -20,14 +20,6 @@ ______________
 contains node related code
 
 ______________
-### /liberte-server 
-contains general backend code
-
-______________
-### /liberte-pong
-contains general pong game code
-
-______________
 ### OG Repos:
 https://github.com/r3x-tech/liberte-dashboard
 https://github.com/Spaceman-Collective/liberte-node
